@@ -1,0 +1,53 @@
+SECURITY POLICY NOTICE
+
+Copyright (c) 2026 Micron Infosys. All rights reserved.
+
+Purpose:
+This standard defines baseline security reporting and response expectations for
+Micron Infosys repositories and related project assets.
+
+1. Scope
+Applies to public and private Micron Infosys codebases, including client and
+in-house projects where security disclosures are permitted by contract.
+
+2. How To Report A Vulnerability
+Do not open public issues for suspected vulnerabilities.
+Report security concerns privately to the project security contact listed in the
+repository profile, organization contact page, or contractual support channel.
+Include:
+- affected project/repository,
+- affected versions or commit references,
+- reproduction steps or proof of concept,
+- impact summary and severity estimate.
+
+3. Coordinated Disclosure
+Micron Infosys will review reports and coordinate remediation and disclosure in
+a responsible manner, prioritizing user safety, client obligations, and legal
+constraints.
+
+4. Response Expectations
+Target response windows (best effort):
+- acknowledgement: within 5 business days;
+- triage decision: within 10 business days;
+- remediation timeline: based on severity and operational impact.
+
+5. Safe Harbor
+Micron Infosys does not pursue action for good-faith security research that:
+- avoids privacy violations and service disruption,
+- avoids data destruction or unauthorized data extraction,
+- is reported privately and responsibly.
+
+6. Out Of Scope
+The following are generally out of scope unless they create material security
+risk:
+- low-impact informational findings,
+- social engineering attempts against staff,
+- denial-of-service testing without prior written approval.
+
+7. Priority Of Signed Agreements
+If a signed client agreement or legal requirement specifies different security
+reporting terms, that signed agreement controls for that project.
+
+8. Public Citation Use
+This notice may be cited as the baseline security standard for Micron Infosys
+projects and repositories.

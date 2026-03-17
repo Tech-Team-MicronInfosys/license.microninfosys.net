@@ -1,0 +1,36 @@
+OPEN SOURCE GOVERNANCE STANDARD NOTICE
+
+Copyright (c) 2026 Micron Infosys. All rights reserved.
+
+Purpose:
+This standard consolidates baseline governance requirements for Micron Infosys
+open source projects so external contributors, clients, and internal teams have
+one public reference.
+
+1. Scope
+Applies to Micron Infosys-led repositories that are intentionally published as
+open source unless a project-specific governance file states otherwise.
+
+2. Required Baseline Documents
+Each public open source repository should include:
+- LICENSE (Apache 2.0 or project-specific approved license);
+- NOTICE statement for attribution and project stewardship;
+- trademark and branding usage policy;
+- contribution terms for external and employee contributors.
+
+3. Contribution Baseline
+Contributors must have rights to submit their changes and must not include
+credentials, secrets, private keys, confidential business information, or other
+restricted content.
+
+4. Trademark Baseline
+Open source licensing grants rights to code, not to Micron Infosys names,
+logos, product marks, or brand identity except for factual reference.
+
+5. Priority Of Project-Specific Rules
+If a specific repository contains a dedicated contribution or trademark policy,
+that repository-specific policy controls for that repository.
+
+6. Public Citation Use
+This notice is intended to be cited as the consolidated governance baseline for
+Micron Infosys open source operations.

@@ -1,0 +1,141 @@
+PROPRIETARY LICENSE NOTICE
+
+Copyright (c) 2026 Micron Infosys. All rights reserved.
+
+Materials in this repository are proprietary to Micron Infosys unless a specific
+file explicitly provides a different license.
+
+1. OWNERSHIP
+
+Micron Infosys retains all right, title, and interest in and to this repository
+and all associated intellectual property, except for third-party materials that
+remain subject to their own licenses.
+
+Any code, content, design, documentation, maintenance work, or other contribution
+created for, submitted to, or merged into this repository for work performed
+under Micron Infosys shall be treated as company-controlled work product to the
+fullest extent permitted by applicable law and any governing employment,
+contractor, or contribution agreement.
+
+No access to this repository transfers any ownership interest to any user,
+contributor, maintainer, contractor, or third party unless Micron Infosys
+expressly grants that transfer in a separate written agreement.
+
+2. RESTRICTED USE
+
+This repository may be publicly accessible for transparency and collaboration;
+however, it is not open source unless a specific file states otherwise.
+
+Accessing this repository through its hosting platform does not grant rights to
+reuse, redistribute, or create derivative works beyond what is expressly
+permitted in writing.
+
+Except with prior written authorization from Micron Infosys, no person or entity
+may:
+
+- copy, reproduce, republish, distribute, or publicly display any part of this
+	repository;
+- modify, adapt, reverse engineer, or create derivative works for any purpose
+	outside authorized company work;
+- sell, sublicense, lease, assign, or otherwise commercialize any part of this
+	repository;
+- disclose source code, internal documentation, credentials, client information,
+	deployment details, or non-public project materials to any unauthorized party.
+
+Authorized employees, contractors, maintainers, and contributors may use this
+repository only as necessary to develop, maintain, review, deploy, or support
+the product on behalf of Micron Infosys and its approved business operations.
+
+3. IN-HOUSE WORK COVERAGE
+
+All software, tools, systems, platforms, applications, scripts, automations,
+websites, and related technical assets that are built, extended, maintained, or
+operated by Micron Infosys for internal company use are governed by this same
+proprietary license notice unless an individual project explicitly states a
+different written license.
+
+4. ASSIGNMENT AND WORK PRODUCT BASELINE
+
+Unless a signed agreement states otherwise, deliverables created under Micron
+Infosys-managed project work are treated as Micron Infosys-controlled work
+product.
+
+Employees, contractors, and contributors must only submit work they have the
+right to submit and must comply with applicable employment, contractor,
+confidentiality, and contribution obligations.
+
+Where a signed client agreement requires assignment, transfer, or licensing of
+specific deliverables, the signed client agreement controls for those
+identified deliverables.
+
+5. PRIORITY OF SIGNED AGREEMENTS
+
+Any executed statement of work, master services agreement, employment contract,
+contractor agreement, or other signed governing document takes priority over
+this notice to the extent of conflict.
+
+6. LIMITED PORTFOLIO AND SHOWCASE RIGHTS
+
+Micron Infosys grants creators, contributors, and maintainers of the product a
+limited, revocable, non-exclusive, non-transferable permission to reference
+their involvement with the project for professional portfolio, resume, interview,
+and personal showcase purposes.
+
+That limited permission allows only the following unless a separate written
+agreement states otherwise:
+
+- identifying that the individual worked on the project under Micron Infosys;
+- describing the nature of the work at a high level;
+- displaying public-facing screenshots, publicly available visuals, or other
+	materials that have already been made public by Micron Infosys or through the
+	live website.
+
+That limited permission does not allow any person to:
+
+- publish or share source code from this repository;
+- disclose confidential business information, credentials, internal tooling,
+	client-sensitive information, unreleased features, or non-public assets;
+- reuse project code, brand assets, or designs in another product or client
+	engagement;
+- imply ownership of the repository or any broader license than what is
+	expressly stated here.
+
+Any broader showcase, reuse, publication, sublicensing, or commercialization
+right must be expressly approved by Micron Infosys in writing.
+
+7. THIRD-PARTY SOFTWARE AND ASSETS
+
+This repository may include or depend on third-party software, packages, fonts,
+icons, images, or other materials that are licensed separately by their
+respective owners.
+
+This notice does not replace or limit those third-party license obligations.
+Users remain responsible for complying with any applicable third-party terms.
+
+8. TRADEMARKS AND BRANDING
+
+No license or right is granted to use the names, logos, trademarks, service
+marks, or branding of Micron Infosys, the product, or any affiliated party
+except as strictly necessary for authorized internal work or for the limited
+portfolio/showcase permission described above.
+
+9. TERMINATION
+
+Any permission granted under this notice automatically terminates if a person
+breaches these terms or any related confidentiality, employment, contractor, or
+contribution obligations.
+
+Upon termination, the person must immediately stop all use not otherwise
+required by law or contract.
+
+10. NO WARRANTY
+
+This repository is provided on an "AS IS" basis without warranties of any kind,
+whether express or implied, except where required by applicable law or a
+separate written agreement.
+
+11. GOVERNING AGREEMENTS
+
+If a separate written agreement with Micron Infosys applies to a contributor,
+maintainer, employee, contractor, or vendor, that agreement controls to the
+extent it conflicts with this notice.

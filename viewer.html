@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Micron Infosys - Registry Viewer</title>
+    <meta name="description" content="View Micron Infosys legal registry documents, including license and policy references.">
+    <meta name="robots" content="noindex, follow">
+    <link rel="canonical" href="https://license.microninfosys.com/viewer.html">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Micron Infosys Registry Viewer">
+    <meta property="og:description" content="View official license and policy documents from the Micron Infosys legal registry.">
+    <meta property="og:url" content="https://license.microninfosys.com/viewer.html">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Micron Infosys Registry Viewer">
+    <meta name="twitter:description" content="View official license and policy documents from the Micron Infosys legal registry.">
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Micron Infosys Registry Viewer</h1>
+            <p class="subtitle">View official license and policy documents</p>
+        </header>
+
+        <main>
+            <section class="licenses-section">
+                <h2 id="licenseTitle">License Document</h2>
+                <p class="viewer-meta">
+                    Type: <span id="licenseType">-</span>
+                </p>
+                <p class="viewer-meta">
+                    Status: <span id="licenseStatus">-</span>
+                </p>
+                <p class="viewer-meta">
+                    Citation ID: <span id="citationId">-</span>
+                </p>
+                <p class="viewer-meta">
+                    Scope: <span id="licenseScope">-</span>
+                </p>
+                <p class="viewer-meta">
+                    Version: <span id="licenseVersion">-</span> | Effective Date: <span id="effectiveDate">-</span>
+                </p>
+
+                <div class="viewer-actions">
+                    <a id="downloadLink" class="btn btn-download" href="#" download>Download License</a>
+                    <a class="btn btn-view" href="index.html">Back To License List</a>
+                </div>
+
+                <div class="license-text-container">
+                    <textarea id="licenseText" class="license-text-box" readonly aria-label="License content"></textarea>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <p>&copy; 2026 Micron Infosys. All rights reserved.</p>
+        </footer>
+    </div>
+
+    <script src="viewer.js"></script>
+</body>
+</html>

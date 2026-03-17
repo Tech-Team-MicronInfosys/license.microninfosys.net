@@ -1,0 +1,110 @@
+PROPRIETARY LICENSE NOTICE - CLIENT PROJECT STANDARD
+
+Copyright (c) 2026 Micron Infosys. All rights reserved.
+
+This repository and all related materials for Micron Infosys client projects,
+including source code, designs, layouts, branding elements, text, graphics,
+images, documentation, build scripts, and other project assets, are proprietary
+and confidential unless a specific file states otherwise.
+
+1. OWNERSHIP
+
+Micron Infosys retains all right, title, and interest in and to this repository
+and all associated intellectual property, except for third-party materials that
+remain subject to their own licenses.
+
+Any code, content, design, documentation, maintenance work, or other contribution
+created for, submitted to, or merged into this repository for work performed
+under Micron Infosys shall be treated as company-controlled work product to the
+fullest extent permitted by applicable law and any governing employment,
+contractor, or contribution agreement.
+
+No access to this repository transfers any ownership interest to any user,
+contributor, maintainer, contractor, or third party unless Micron Infosys
+expressly grants that transfer in a separate written agreement.
+
+2. RESTRICTED USE
+
+This repository is private and is not open source.
+
+Except with prior written authorization from Micron Infosys, no person or entity
+may:
+
+- copy, reproduce, republish, distribute, or publicly display any part of this
+	repository;
+- modify, adapt, reverse engineer, or create derivative works for any purpose
+	outside authorized company work;
+- sell, sublicense, lease, assign, or otherwise commercialize any part of this
+	repository;
+- disclose source code, internal documentation, credentials, client information,
+	deployment details, or non-public project materials to any unauthorized party.
+
+Authorized employees, contractors, maintainers, and contributors may use this
+repository only as necessary to develop, maintain, review, deploy, or support
+client projects on behalf of Micron Infosys and its approved business operations.
+
+3. LIMITED PORTFOLIO AND SHOWCASE RIGHTS
+
+Micron Infosys grants creators, contributors, and maintainers of client projects a
+limited, revocable, non-exclusive, non-transferable permission to reference
+their involvement with the project for professional portfolio, resume, interview,
+and personal showcase purposes.
+
+That limited permission allows only the following unless a separate written
+agreement states otherwise:
+
+- identifying that the individual worked on the project under Micron Infosys;
+- describing the nature of the work at a high level;
+- displaying public-facing screenshots, publicly available visuals, or other
+	materials that have already been made public by Micron Infosys or through the
+	live client deliverable.
+
+That limited permission does not allow any person to:
+
+- publish or share source code from this repository;
+- disclose confidential business information, credentials, internal tooling,
+	client-sensitive information, unreleased features, or non-public assets;
+- reuse project code, brand assets, or designs in another product or client
+	engagement;
+- imply ownership of the repository or any broader license than what is
+	expressly stated here.
+
+Any broader showcase, reuse, publication, sublicensing, or commercialization
+right must be expressly approved by Micron Infosys in writing.
+
+4. THIRD-PARTY SOFTWARE AND ASSETS
+
+This repository may include or depend on third-party software, packages, fonts,
+icons, images, or other materials that are licensed separately by their
+respective owners.
+
+This notice does not replace or limit those third-party license obligations.
+Users remain responsible for complying with any applicable third-party terms.
+
+5. TRADEMARKS AND BRANDING
+
+No license or right is granted to use the names, logos, trademarks, service
+marks, or branding of Micron Infosys, any client, or any affiliated party
+except as strictly necessary for authorized internal work or for the limited
+portfolio/showcase permission described above.
+
+6. TERMINATION
+
+Any permission granted under this notice automatically terminates if a person
+breaches these terms or any related confidentiality, employment, contractor, or
+contribution obligations.
+
+Upon termination, the person must immediately stop all use not otherwise
+required by law or contract.
+
+7. NO WARRANTY
+
+This repository is provided on an "AS IS" basis without warranties of any kind,
+whether express or implied, except where required by applicable law or a
+separate written agreement.
+
+8. GOVERNING AGREEMENTS
+
+If a separate written agreement with Micron Infosys applies to a contributor,
+maintainer, employee, contractor, or vendor, that agreement controls to the
+extent it conflicts with this notice.

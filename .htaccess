@@ -1,0 +1,34 @@
+Options -Indexes
+DirectoryIndex index.html
+
+# Keep only the homepage indexable.
+<IfModule mod_headers.c>
+    <Files "index.html">
+        Header set X-Robots-Tag "index, follow"
+    </Files>
+
+    <FilesMatch "^(viewer\.html|script\.js|viewer\.js|styles\.css|sitemap\.xml|robots\.txt)$">
+        Header set X-Robots-Tag "noindex, nofollow, noarchive, nosnippet"
+    </FilesMatch>
+
+    <FilesMatch "\.(txt)$">
+        Header set X-Robots-Tag "noindex, nofollow, noarchive, nosnippet"
+    </FilesMatch>
+
+    <FilesMatch "\.(zip|tar|gz|tgz|bz2|7z|rar|bak|old)$">
+        Header set X-Robots-Tag "noindex, nofollow, noarchive, nosnippet"
+    </FilesMatch>
+</IfModule>
+
+# Deny direct access to deployment archives and backup artifacts.
+<FilesMatch "\.(zip|tar|gz|tgz|bz2|7z|rar|bak|old)$">
+    Require all denied
+</FilesMatch>
+
+# Deny direct access to build/deploy helper folders.
+RedirectMatch 404 ^/\.dist(?:/|$)
+
+# Block access to hidden files except this .htaccess.
+<FilesMatch "^\.(?!htaccess$)">
+    Require all denied
+</FilesMatch>
